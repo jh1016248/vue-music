@@ -18,7 +18,7 @@ npm run build
 npm run build
 ```
 
-项目访问地址：[joho.coding.me/build/music/](joho.coding.me/build/music/)
+项目访问地址：[http://joho.coding.me/build/music/](http://joho.coding.me/build/music/)
 放在[coding](https://coding.net/)的pages服务上
 
 感谢接口提供：
